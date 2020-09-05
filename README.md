@@ -16,3 +16,5 @@
 ##### To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart. You can then write down individual steps that the computer needs to perform in order to complete each individual task (and any information it needs to perform the task), rather like writing a recipe that it can follow.
 #### 3- CODE EACH STEP
 ##### Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript.
+## Tasks
+### Once you know the goal of your script, you can work out the individual tasks needed to achieve it. This high-level view of the tasks can be represnted using flowchart.
