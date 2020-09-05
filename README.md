@@ -21,4 +21,12 @@
 ![Flowchart](https://user-images.githubusercontent.com/70091044/92309197-21e09080-efac-11ea-8b3f-9f577a1741b9.PNG)
 ## Steps 
 ### Each individual task may be broken down into a sequence of steps. When ypu are ready to code the script,these steps can then be translated into individual lines of code.
+![steps](https://user-images.githubusercontent.com/70091044/92309331-4b4dec00-efad-11ea-9d6e-4f2ddb1d55e9.PNG)
+## How do computers fit in with the world around them?
+### How a briwser sees a web page
+#### In order to understand how you can change the content of an HTML page using JavaScript, you need to know how a browser interprets the HTML code and applies styling to it.
+##### 1: RECEIVE A PAGE AS HTML CODE 
+##### 2: CREATE A MODEL OF THE PAGE AND STORE IT IN MEMORY 
+##### 3: USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN 
+#### All major browsers use a JavaScript interpreter to translate your instructions (in JavaScript) into instructions the computer can follow. 
 
