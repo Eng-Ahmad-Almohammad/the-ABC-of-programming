@@ -18,3 +18,7 @@
 ##### Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript.
 ## Tasks
 ### Once you know the goal of your script, you can work out the individual tasks needed to achieve it. This high-level view of the tasks can be represnted using flowchart.
+![Flowchart](https://user-images.githubusercontent.com/70091044/92309197-21e09080-efac-11ea-8b3f-9f577a1741b9.PNG)
+## Steps 
+### Each individual task may be broken down into a sequence of steps. When ypu are ready to code the script,these steps can then be translated into individual lines of code.
+
